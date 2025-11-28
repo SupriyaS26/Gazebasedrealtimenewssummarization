@@ -1,0 +1,1 @@
+Focus News is a gaze-based real-time news summarization system that tracks user eye-movements using a webcam (WebGazer.js), corrects gaze using XGBoost regression, computes attention using custom T5 layers, and generates dynamic, personalized summaries in real time.
