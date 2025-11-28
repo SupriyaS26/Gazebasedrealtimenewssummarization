@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environment
+venv/
+env/
+
+# Django
+db.sqlite3
+*.log
+
+# Models
+*.bin
+*.pt
+
+# Sensitive
+*.json
+*.pkl
+*.txt
+
+# Node/JS
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
